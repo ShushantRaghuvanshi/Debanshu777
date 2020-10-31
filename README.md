@@ -99,9 +99,6 @@ mentor newbies 👨🏻‍💻.
 ### Some facts:
 <table>
     <tr>
-        <td>
-            <img src="https://spotify-recently-played-readme.vercel.app/api?user=wex8xjk0lgc4m948k3cb68xe8&count=1&width=500" align="center"/>
-        </td>
         <td rowspan=2>
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Debanshu777&theme=dark" align="center"/></td>
     </tr>
