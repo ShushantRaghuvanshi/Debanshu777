@@ -40,58 +40,58 @@ mentor newbies 👨🏻‍💻.
 
 ### Languages and Tools:
 <table  width="0">
-    <tr>
-        <td align="center" ><h3>Languages:</h3 ></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/languages/c.svg" width="50%"><br>C</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/languages/c-plus-plus.svg" width="50%"><br>C++</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/languages/java-brands.svg" width="50%"><br>Java</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/languages/html5-brands.svg" width="50%"><br>HTML5</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/languages/css3-alt-brands.svg" width="50%"><br>CSS3</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/languages/js-square-brands.svg" width="50%"><br>Javascript</img></td>
+    <tr width="5%">
+        <td align="center" width="5%"><h3>Languages:</h3 ></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/languages/c.svg" width="50%"><br>C</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/languages/c-plus-plus.svg" width="50%"><br>C++</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/languages/java-brands.svg" width="50%"><br>Java</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/languages/html5-brands.svg" width="50%"><br>HTML5</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/languages/css3-alt-brands.svg" width="50%"><br>CSS3</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/languages/js-square-brands.svg" width="50%"><br>Javascript</img></td>
     </tr>
-    <tr>
-        <td align="center" ><h3>Web:</h3></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br> ReactJs</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/WEB/expressjs.svg" width="50%"><br>Express.js</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/WEB/node-brands.svg" width="50%"><br> Node.js</img></td>
+    <tr width="5%">
+        <td align="center" width="5%"><h3>Web:</h3></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="40%"><br> ReactJs</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/WEB/expressjs.svg" width="50%"><br>Express.js</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/WEB/node-brands.svg" width="50%"><br> Node.js</img></td>
     </tr>
-    <tr>
-        <td align="center" ><h3>Database:</h3></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DATABASE/mongodb.svg" width="50%"><br>MongoDB</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DATABASE/mongoose.svg" width="50%"><br>Mongoose</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DATABASE/mysql.svg" width="50%"><br>SQL</img></td>
-        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/DATABASE/firebase.svg" width="50%"><br>Firebase</img></td>
+    <tr width="5%">
+        <td align="center" width="5%"><h3>Database:</h3></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/DATABASE/mongodb.svg" width="40%"><br>MongoDB</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/DATABASE/mongoose.svg" width="50%"><br>Mongoose</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/DATABASE/mysql.svg" width="50%"><br>SQL</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/DATABASE/firebase.svg" width="50%"><br>Firebase</img></td>
     </tr>
-    <tr>
-        <td align="center" ><h3>Frameworks/Libraries:</h3></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/FRAMEWORKS-LIBRARIES/bootstrap-brands.svg" width="50%"><br>Bootstraps</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/FRAMEWORKS-LIBRARIES/jquery.svg" width="50%"><br>JQuery</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/FRAMEWORKS-LIBRARIES/react.svg" width="50%"><br>ReactJs (with Hooks)</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/FRAMEWORKS-LIBRARIES/npm.svg" width="50%"><br>NPM</img></td>
+    <tr width="5%">
+        <td align="center" width="5%"><h3>Frameworks/Libraries:</h3></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/FRAMEWORKS-LIBRARIES/bootstrap-brands.svg" width="40%"><br>Bootstraps</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/FRAMEWORKS-LIBRARIES/jquery.svg" width="50%"><br>JQuery</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/FRAMEWORKS-LIBRARIES/react.svg" width="50%"><br>ReactJs (with Hooks)</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/FRAMEWORKS-LIBRARIES/npm.svg" width="50%"><br>NPM</img></td>
+    </tr >
+    <tr width="5%">
+        <td align="center" width="5%"><h3>Developer Tools:</h3></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/git.svg" width="40%"><br>Git</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/github.svg" width="50%"><br>Github (CLI)</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/atom.svg" width="50%"><br> Atom</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/visualstudio.svg" width="50%"><br>VSCode</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/postman.svg" width="50%"><br>Postman</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/seo.svg"><br>SEO</img></td>
     </tr>
-    <tr>
-        <td align="center" ><h3>Developer Tools:</h3></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/git.svg" width="50%"><br>Git</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/github.svg" width="50%"><br>Github (CLI)</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/atom.svg" width="50%"><br> Atom</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/visualstudio.svg" width="50%"><br>VSCode</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/postman.svg" width="50%"><br>Postman</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEVELOPER-TOOLS/seo.svg"><br>SEO</img></td>
+    <tr width="5%">
+        <td align="center" width="5%"><h3>Dev Ops:</h3></td>
+        <td align="center" width="20%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/googlecloud.svg" width="20%"><br>Google Cloud Platform</img></td>
+        <td align="center" width="20%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/kubernetes.svg" width="50%"><br> Kubernetes</img></td>
+        <td align="center" width="20%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/microsoftazure.svg" width="50%"><br>Azure</img></td>
+        <td align="center" width="20%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/amazonaws.svg" width="50%"><br>AWS</img></td>
+        <td align="center" width="20%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/netlify.svg" width="50%"><br>Netlify</img></td>
+        <td align="center" width="20%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/heroku.svg" width="50%"><br>Heroku</img></td>
     </tr>
-    <tr>
-        <td align="center" width="50%"><h3>Dev Ops:</h3></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/googlecloud.svg" width="50%"><br>Google Cloud Platform</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/kubernetes.svg" width="50%"><br> Kubernetes</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/microsoftazure.svg" width="50%"><br>Azure</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/amazonaws.svg" width="50%"><br>AWS</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/netlify.svg" width="50%"><br>Netlify</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/heroku.svg" width="50%"><br>Heroku</img></td>
-    </tr>
-    <tr>
-        <td align="center" ><h3>UX & UI Tools:</h3></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/UX-UI-TOOLS/adobexd.svg" width="50%"><br>Adobe XD</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/UX-UI-TOOLS/adobephotoshop.svg" width="50%"><br>Adobe PS</img></td>
-        <td align="center" width="50%"><img src="https://mohitjaisal.com/CV-SVG/UX-UI-TOOLS/canva.svg" width="50%"><br>Canva</img></td>
+    <tr width="5%">
+        <td align="center" width="5%"><h3>UX & UI Tools:</h3></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/UX-UI-TOOLS/adobexd.svg" width="40%"><br>Adobe XD</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/UX-UI-TOOLS/adobephotoshop.svg" width="50%"><br>Adobe PS</img></td>
+        <td align="center" width="5%"><img src="https://mohitjaisal.com/CV-SVG/UX-UI-TOOLS/canva.svg" width="50%"><br>Canva</img></td>
     </tr>
     
 </table> 
