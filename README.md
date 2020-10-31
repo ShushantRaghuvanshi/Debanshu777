@@ -41,29 +41,71 @@ mentor newbies 👨🏻‍💻.
 ### Languages and Tools:
 <table border="0" width="0">
     <tr>
-        <td align="center"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/Flutter%20-%2302569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/material%20ui%20-%230081CB.svg?&style=for-the-badge&logo=material-ui&logoColor=white"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></td>
+        <td><h3>Languages:</h3></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
     </tr>
     <tr>
-        <td align="center"><img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></td>
-        <td align="center"><img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></td>
+        <td><h3>Web:</h3></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
     </tr>
     <tr>
-        <td align="center"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/></td?>
-        <td align="center"><img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></td>
-        <td align="center"><img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/></td>
-    </tr> 
+        <td><h3>Database:</h3></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+    </tr>
+    <tr>
+        <td><h3>Frameworks/Libraries:</h3></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+    </tr>
+    <tr>
+        <td><h3>Developer Tools:</h3></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/WEB/react.svg" width="50%"><br>Java</img></td>
+    </tr>
+    <tr>
+        <td><h3>Dev Ops:</h3></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/googlecloud.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/kubernetes.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/microsoftazure.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/amazonaws.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/netlify.svg" width="50%"><br>Java</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/DEV-OPS/heroku.svg" width="50%"><br>Java</img></td>
+    </tr>
+    <tr>
+        <td><h3>UX & UI Tools:</h3></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/UX-UI-TOOLS/adobexd.svg" width="50%"><br>Adobe XD</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/UX-UI-TOOLS/adobephotoshop.svg" width="50%"><br>Adobe PS</img></td>
+        <td align="center"><img src="https://mohitjaisal.com/CV-SVG/UX-UI-TOOLS/canva.svg" width="50%"><br>Canva</img></td>
+    </tr>
+    
 </table> 
 
 ### Some facts:
