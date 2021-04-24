@@ -3,7 +3,7 @@
 
 
 
-<h1><img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/d1849d41e64c071784e0f728e9a7b239d1d81d32/SvgStore/Tools-Icons/github.svg" width="3%"></img> GithubPro</h1>
+<h1><img src="https://raw.githubusercontent.com/mohitjaisal/ImageStore/d1849d41e64c071784e0f728e9a7b239d1d81d32/SvgStore/Tools-Icons/github.svg" width="2.5%"></img> GithubPro</h1>
 
 
 <table>
